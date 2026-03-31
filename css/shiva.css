@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+h1{
+    background: whitesmoke;
+}
+.box{
+    background-color: whitesmoke;
+    display: flex ;
+    justify-content:flex-start;
+    align-items: center
+
+;
+padding-left: 2px;
+
+}
+.contain{
+    padding: 20px;
+
+    /* background-color: antiquewhite; */
+}
+h2{
+    color: white;
+}
